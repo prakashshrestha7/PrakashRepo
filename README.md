@@ -1,21 +1,22 @@
 # PrakashRepo
 Use of Function in Python
-Short description
+
+## Short description
 This repository contains Python code for analyzing the distribution of channel types within the top 1000 YouTube channels based on subscribers. The analysis involves data processing, visualization, and exporting the results to a CSV file for further analysis or integration with databases.
 
-Getting Started
+## Getting Started
 
-Prerequisites
+## Prerequisites
 To run the code, you need the following prerequisites:
 - Python
 - pandas library
 - matplotlib library
 - MySQL Workbench
 
-Installing
+## Installing
 
-Running the Tests
-Breakdown of Tests
+## Running the Tests
+## Breakdown of Tests
 The code includes the following functionalities:
 Loading Libraries: Imports necessary libraries, including pandas and matplotlib.
 Histogram Plot function: Defines a function to plot a histogram of channel type distribution.
@@ -25,16 +26,16 @@ Data Loading: Loads the YouTube dataset from a CSV file, handling encoding issue
 Data Processing: Slices the dataset to extract the top 1000 records and plot their channel type distribution.
 Data Export: Exports the top 1000 records to a CSV file.
 
-Deployment
+## Deployment
 Deploy the code as per your requirements. Ensure all dependencies are installed and configurations are set up correctly for seamless execution.
 
-Author
+## Author
 Prof. Omar Al-Trad
 Prakash Shrestha 
 
-License
+## License
 This project is licensed under the MIT License
 
-Acknowledgment
+## Acknowledgment
 Special thanks to Prof. Omar Al-Trad for the guidance and support.
 Inspired by Lay Patel
